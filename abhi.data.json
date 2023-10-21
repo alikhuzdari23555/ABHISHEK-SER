@@ -49,14 +49,14 @@
       "deviceSignature": "M3f8+1ZKQUZbHjrFqK5URZnrM9uMbBlRSx1aARoc3fcIztrOmPjWHFDZXB+PyDf9mIccrRGbKZ0dlB/RkuBZjQ=="
     },
     "me": {
-      "id": "923366601777:8@s.whatsapp.net",
+      "id": "923314442009:8@s.whatsapp.net",
       "verifiedName": "𓃘𓃲ali𓃲khuzdari 𓃲𓃲",
       "name": "𓃘𓃲ali𓃲khuzdari 𓃲𓃲"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "923366601777:8@s.whatsapp.net",
+          "name": "923314442009:8@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -340,7 +340,7 @@
           "data": "DMivX1iw1/YavHdkX6/rrwKRBvToT9G/tPYxfrnX70g="
         }
       },
-      "28": null,
+      "28": +923314442009,
       "29": {
         "private": {
           "type": "Buffer",
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "923366601777.0": {
+      "923314442009.0": {
         "_sessions": {
           "BXNt/cml248BN0Qcko7p9kDg0ADmgNZAFmqDWcbfq0Bb": {
             "registrationId": 327043785,
